@@ -1,0 +1,26 @@
+ACTIVIDAD 01
+Instalar las dependencias necesarias para trabajar con TypeORM en el proyecto integrador.
+
+ACTIVIDAD 02
+Configurar el AppDataSource de la aplicación, como así también las propiedades necesarias de tsconfig.json.
+
+ACTIVIDAD 03
+Crear las entities necesarias para el proyecto, que representen los turnos, usuarios y credenciales de usuarios. Tener en cuenta que en este punto se establecen las relaciones entre las entidades.
+
+ACTIVIDAD 04
+Realizar los cambios necesarios en las funciones de servicio para que, en lugar de utilizar los viejos arreglos de datos, ahora utilicemos las entities creadas.
+
+ACTIVIDAD 05
+Testear y asegurar que se mantienen las funcionalidades implementadas.
+
+
+¡Bien hecho!
+TIPS
+
+Sigue el paso a paso de nuestra clase para poder realizar la actividad. Tienes allí todo el contenido necesario.
+
+Recuerda ir agregando a tu proyecto todos los tópicos tratados en clases y módulos anteriores: manejo de errores, validación, etc.    
+
+Apóyate en SQL Shell si quieres ayuda para revisar los datos de tus tablas.
+
+Configura correctamente las peticiones que deseas realizar en ThunderClient, Insomnia o Postman. Esto te hará mucho más fácil el trabajo.    

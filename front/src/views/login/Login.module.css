@@ -1,0 +1,20 @@
+.container {
+  background-color: white;
+  border-radius: 5px;
+  color: black;
+  height: auto;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 10px 20px 30px 20px;
+  text-align: center;
+  width: 800px;
+  hr {
+    border: 0;
+    height: 2px;
+    background-color: #ff5f1f;
+  }
+  label {
+    color: black;
+  }
+}
